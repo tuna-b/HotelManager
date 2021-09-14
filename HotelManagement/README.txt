@@ -1,0 +1,1 @@
+Hello! This is a Java project I wrote 1.5 years ago using the SWING library. To use it, enter "admin" for the username, and "admin" for the password. After doing this, a box should popup stating that you have successfully signed in. Afterwards, you can click the reception button on the top left and navigate from there.

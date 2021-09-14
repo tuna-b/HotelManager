@@ -1,0 +1,7 @@
+FORMAT:
+firstname
+lastname
+phone
+room#
+days of stay
+0
